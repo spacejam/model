@@ -1,4 +1,4 @@
-use model::{linearizable, model};
+use model::*;
 
 #[test]
 fn test_model() {
